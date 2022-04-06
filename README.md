@@ -26,6 +26,37 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 
 ![img](img/pict1.png)
 
+Kemudian buka browser untuk melihat hasilnya
+
+![img](img/pict3.png)
+
+Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), lalu simak dan amati perubahannya.
+
+### Membuat Layout Sederhana
+
+Buat folder baru dengan nama lab4_layout, kemudia buatlah file baru didalamnya dengan nama home.html dan file css dengan nama style.css, kemudian tulis kode berikut.
+
+![img](img/pict4.png)
+
+Kemudian buka browser dan lihat hasilnya.
+
+![img](img/pict5.png)
+
+Kemudian tambahkan kode CSS untuk membuat layoutnya.
+
+![img](img/pict6.png)
+
+Kemudian mengatur navigasi nya :
+
+![img](img/pict7.png)
+
+Kemudian lihat hasilnya.
+
+![img](img/pict8.png)
+
+
+
+
 
 
 

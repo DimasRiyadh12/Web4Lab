@@ -54,6 +54,43 @@ Kemudian lihat hasilnya.
 
 ![img](img/pict8.png)
 
+### Membuat Hero Panel
+
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![img](img/pict9.png)
+
+![img](img/pict10.png)
+
+Dan hasilnya
+
+![img](img/pict11.png)
+
+### Mengatur Layout Main dan Sidebar
+
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![imgg](img/pict12.png)
+
+### Membuat Sidebar Widget
+
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+
+![img](img/pict13.png)
+
+Kemudian tambahkan CSS.
+
+![img](img/pict14.png)
+
+Dan liat hasilnya
+
+![img](img/pict15.png)
+
+
+
+
+
+
 
 
 

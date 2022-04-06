@@ -86,6 +86,34 @@ Dan liat hasilnya
 
 ![img](img/pict15.png)
 
+### Mengatur Footer
+
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+![img](img/pict16.png)
+
+![img](img/pict17.png)
+
+### Menambahkan Elemen lainnya pada main content
+
+![img](img/pict18.png)
+
+Kemudian tambahkan CSS
+
+![img](img//pict19.png)
+
+Dan lihat hasilnya di browser
+
+![img](img/pict20.png)
+
+### Menambahkan content artikel
+
+![img](img/pict21.png)
+
+Kemudian Tambahkan CSS
+
+![img](img/pict22.png)
+
 
 
 

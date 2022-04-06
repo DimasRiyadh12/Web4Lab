@@ -146,6 +146,12 @@ Kemudian tambahkan CSS
 
 ![img](img/pict29.png)
 
+Dan lihat lah hasilnya 
+
+![img](img/pict30.png)
+
+### cukup sekian terima kasih.
+
 
 
 

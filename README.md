@@ -114,6 +114,37 @@ Kemudian Tambahkan CSS
 
 ![img](img/pict22.png)
 
+![img](img/pict23.png)
+
+### Pertanyaan dan Tugas :
+
+1.Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
+2.Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
+
+### Jawaban :
+
+### 1. Buat HTML seperti berikut
+
+![img](img/pict24.png)
+
+Kemudian tambahkan CSS
+
+![img](img/pict25.png)
+
+Lalu lihat hasilnya di browser
+
+![img](img/pict26.png)
+
+### 2. Buat HTML seperti berikut
+
+![img](img/pict27.png)
+
+Kemudian tambahkan CSS
+
+![img](img/pict28.png)
+
+![img](img/pict29.png)
+
 
 
 
